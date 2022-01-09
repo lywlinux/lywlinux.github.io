@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c31f005a-0b06-4b3a-b191-b8ff57ef0b2b" name="Default Changelist" comment="" />
+    <list default="true" id="c31f005a-0b06-4b3a-b191-b8ff57ef0b2b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/doc/CV.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/doc/CV.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/experience.html" beforeDir="false" afterPath="$PROJECT_DIR$/experience.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/profile.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/profile.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/projects/project_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/projects/project_2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/projects/project_2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/projects/project_3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/projects/project_3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects.html" beforeDir="false" afterPath="$PROJECT_DIR$/projects.html" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,21 +49,47 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="-280517739">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="html" value="299" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="299" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="html" value="2" />
+          <entry key="jpg" value="8" />
+          <entry key="png" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="2" />
+          <entry key="Image" value="11" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/projects.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="107" column="17" lean-forward="true" selection-start-line="107" selection-start-column="17" selection-end-line="107" selection-end-column="17" />
+            <state relative-caret-position="-200">
+              <caret line="135" column="68" selection-start-line="135" selection-start-column="68" selection-end-line="135" selection-end-column="68" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="e#30335#30341#0" expanded="true" />
-                <element signature="e#30579#30585#0" expanded="true" />
-                <element signature="e#30491#30497#0" expanded="true" />
-                <element signature="e#30883#30889#0" expanded="true" />
-                <element signature="e#31084#31090#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -63,15 +98,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/experience.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="116" column="50" lean-forward="true" selection-start-line="116" selection-start-column="50" selection-end-line="116" selection-end-column="50" />
+            <state relative-caret-position="-2323">
+              <caret line="103" column="26" lean-forward="true" selection-start-line="103" selection-start-column="26" selection-end-line="103" selection-end-column="26" />
               <folding>
-                <element signature="e#30303#30309#0" expanded="true" />
-                <element signature="e#30554#30560#0" expanded="true" />
-                <element signature="e#30439#30445#0" expanded="true" />
-                <element signature="e#30831#30837#0" expanded="true" />
-                <element signature="e#31032#31038#0" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/publications.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="720">
+              <caret line="104" column="31" lean-forward="true" selection-start-line="104" selection-start-column="31" selection-end-line="104" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -79,17 +119,15 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="256">
-              <caret line="181" column="59" lean-forward="true" selection-start-line="181" selection-start-column="59" selection-end-line="181" selection-end-column="59" />
-              <folding>
-                <element signature="e#30447#30453#0" expanded="true" />
-                <element signature="e#30693#30699#0" expanded="true" />
-                <element signature="e#30599#30605#0" expanded="true" />
-                <element signature="e#31031#31037#0" expanded="true" />
-                <element signature="e#31249#31255#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="252">
+              <caret line="177" column="19" lean-forward="true" selection-start-line="177" selection-start-column="19" selection-end-line="177" selection-end-column="19" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/img/profile.png">
+          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
     </leaf>
@@ -100,12 +138,15 @@
       <find>project_2</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/publications.html" />
-        <option value="$PROJECT_DIR$/experience.html" />
         <option value="$PROJECT_DIR$/projects.html" />
+        <option value="$PROJECT_DIR$/experience.html" />
         <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
@@ -117,59 +158,65 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="-122" />
-    <option name="y" value="97" />
-    <option name="width" value="1620" />
-    <option name="height" value="920" />
+    <option name="x" value="392" />
+    <option name="y" value="53" />
+    <option name="width" value="1197" />
+    <option name="height" value="1030" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="juyongjiang.github.io-master" type="b2602c69:ProjectViewProjectNode" />
-              <item name="juyongjiang.github.io-master" type="462c0819:PsiDirectoryNode" />
+              <item name="lywlinux.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lywlinux.github.io" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="juyongjiang.github.io-master" type="b2602c69:ProjectViewProjectNode" />
-              <item name="juyongjiang.github.io-master" type="462c0819:PsiDirectoryNode" />
+              <item name="lywlinux.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lywlinux.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="doc" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="juyongjiang.github.io-master" type="b2602c69:ProjectViewProjectNode" />
-              <item name="juyongjiang.github.io-master" type="462c0819:PsiDirectoryNode" />
+              <item name="lywlinux.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lywlinux.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="img" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="juyongjiang.github.io-master" type="b2602c69:ProjectViewProjectNode" />
-              <item name="juyongjiang.github.io-master" type="462c0819:PsiDirectoryNode" />
+              <item name="lywlinux.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lywlinux.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="img" type="462c0819:PsiDirectoryNode" />
-              <item name="projects" type="462c0819:PsiDirectoryNode" />
+              <item name="experience" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../wudonghai123.github.io-main/wudonghai123.github.io-main" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Jack\Desktop\lywlinux.github.io\img\projects" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Jack\Desktop\lywlinux.github.io\img\experience" />
+      <recent name="C:\Users\Jack\Desktop\lywlinux.github.io\img\projects" />
+      <recent name="C:\Users\Jack\Desktop\lywlinux.github.io\doc" />
+      <recent name="C:\Users\Jack\Desktop\lywlinux.github.io\img" />
       <recent name="C:\Users\Jack\Desktop\juyongjiang.github.io-master\juyongjiang.github.io-master\img\projects" />
-      <recent name="C:\Users\Jack\Desktop\juyongjiang.github.io-master\juyongjiang.github.io-master\img" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -205,25 +252,22 @@
       <option name="presentableId" value="Default" />
       <updated>1632969235220</updated>
       <workItem from="1632969236530" duration="16043000" />
+      <workItem from="1641693221567" duration="7081000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16043000" />
+    <option name="totallyTimeSpent" value="23124000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1616" height="886" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.09768637" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14544237" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -231,13 +275,17 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+      <window_info anchor="right" id="Maven Projects" order="6" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -247,9 +295,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/img/profile.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/img/icons/github.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -259,19 +304,14 @@
     <entry file="file://$PROJECT_DIR$/img/icons/medium.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/publications.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="104" column="46" selection-start-line="104" selection-start-column="46" selection-end-line="104" selection-end-column="46" />
-          <folding>
-            <element signature="e#30359#30365#0" expanded="true" />
-            <element signature="e#30603#30609#0" expanded="true" />
-            <element signature="e#30515#30521#0" expanded="true" />
-            <element signature="e#30907#30913#0" expanded="true" />
-            <element signature="e#31108#31114#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/img/experience/hohai.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/profile.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/projects/project_3.jpg">
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/img/projects/project_3.jpg">
       <provider selected="true" editor-type-id="images" />
@@ -279,52 +319,40 @@
     <entry file="file://$PROJECT_DIR$/img/projects/project_2.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/projects/project_1.jpg">
+    <entry file="file://$PROJECT_DIR$/img/experience/casia.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/projects/project_3.jpg">
-      <provider selected="true" editor-type-id="images" />
+    <entry file="file://$PROJECT_DIR$/publications.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="104" column="31" lean-forward="true" selection-start-line="104" selection-start-column="31" selection-end-line="104" selection-end-column="31" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/experience.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="116" column="50" lean-forward="true" selection-start-line="116" selection-start-column="50" selection-end-line="116" selection-end-column="50" />
+        <state relative-caret-position="-2323">
+          <caret line="103" column="26" lean-forward="true" selection-start-line="103" selection-start-column="26" selection-end-line="103" selection-end-column="26" />
           <folding>
-            <element signature="e#30303#30309#0" expanded="true" />
-            <element signature="e#30554#30560#0" expanded="true" />
-            <element signature="e#30439#30445#0" expanded="true" />
-            <element signature="e#30831#30837#0" expanded="true" />
-            <element signature="e#31032#31038#0" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/projects.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="107" column="17" lean-forward="true" selection-start-line="107" selection-start-column="17" selection-end-line="107" selection-end-column="17" />
+        <state relative-caret-position="-200">
+          <caret line="135" column="68" selection-start-line="135" selection-start-column="68" selection-end-line="135" selection-end-column="68" />
           <folding>
             <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#30335#30341#0" expanded="true" />
-            <element signature="e#30579#30585#0" expanded="true" />
-            <element signature="e#30491#30497#0" expanded="true" />
-            <element signature="e#30883#30889#0" expanded="true" />
-            <element signature="e#31084#31090#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="181" column="59" lean-forward="true" selection-start-line="181" selection-start-column="59" selection-end-line="181" selection-end-column="59" />
-          <folding>
-            <element signature="e#30447#30453#0" expanded="true" />
-            <element signature="e#30693#30699#0" expanded="true" />
-            <element signature="e#30599#30605#0" expanded="true" />
-            <element signature="e#31031#31037#0" expanded="true" />
-            <element signature="e#31249#31255#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="252">
+          <caret line="177" column="19" lean-forward="true" selection-start-line="177" selection-start-column="19" selection-end-line="177" selection-end-column="19" />
         </state>
       </provider>
     </entry>
