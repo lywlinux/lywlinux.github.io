@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c31f005a-0b06-4b3a-b191-b8ff57ef0b2b" name="Default Changelist" comment="">
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 01b668645d61f91a64dd5b835420971229954c0f
       <change beforePath="$PROJECT_DIR$/doc/CV.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/doc/CV.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/experience.html" beforeDir="false" afterPath="$PROJECT_DIR$/experience.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/img/profile.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/profile.png" afterDir="false" />
@@ -10,6 +14,13 @@
       <change beforePath="$PROJECT_DIR$/img/projects/project_3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/projects/project_3.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/projects.html" beforeDir="false" afterPath="$PROJECT_DIR$/projects.html" afterDir="false" />
+<<<<<<< HEAD
+=======
+=======
+      <change beforePath="$PROJECT_DIR$/img/profile.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/profile.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+>>>>>>> ce64027341377028e6a1fd4880929f920c025c17
+>>>>>>> 01b668645d61f91a64dd5b835420971229954c0f
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -52,45 +63,99 @@
     <session id="-280517739">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+<<<<<<< HEAD
           <entry key="project.closed" value="2" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.opened" value="3" />
+=======
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+>>>>>>> 01b668645d61f91a64dd5b835420971229954c0f
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
+<<<<<<< HEAD
           <entry key="html" value="299" />
+=======
+<<<<<<< HEAD
+          <entry key="html" value="299" />
+=======
+          <entry key="html" value="40" />
+>>>>>>> ce64027341377028e6a1fd4880929f920c025c17
+>>>>>>> 01b668645d61f91a64dd5b835420971229954c0f
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
+<<<<<<< HEAD
           <entry key="HTML" value="299" />
+=======
+<<<<<<< HEAD
+          <entry key="HTML" value="299" />
+=======
+          <entry key="HTML" value="40" />
+>>>>>>> ce64027341377028e6a1fd4880929f920c025c17
+>>>>>>> 01b668645d61f91a64dd5b835420971229954c0f
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+<<<<<<< HEAD
           <entry key="html" value="2" />
           <entry key="jpg" value="8" />
           <entry key="png" value="3" />
+=======
+<<<<<<< HEAD
+          <entry key="html" value="2" />
+          <entry key="jpg" value="8" />
+          <entry key="png" value="3" />
+=======
+          <entry key="jpg" value="4" />
+          <entry key="png" value="1" />
+>>>>>>> ce64027341377028e6a1fd4880929f920c025c17
+>>>>>>> 01b668645d61f91a64dd5b835420971229954c0f
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
+<<<<<<< HEAD
           <entry key="HTML" value="2" />
           <entry key="Image" value="11" />
+=======
+<<<<<<< HEAD
+          <entry key="HTML" value="2" />
+          <entry key="Image" value="11" />
+=======
+          <entry key="Image" value="5" />
+>>>>>>> ce64027341377028e6a1fd4880929f920c025c17
+>>>>>>> 01b668645d61f91a64dd5b835420971229954c0f
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+<<<<<<< HEAD
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/projects.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="197">
               <caret line="100" column="38" lean-forward="true" selection-start-line="100" selection-start-column="38" selection-end-line="100" selection-end-column="38" />
+=======
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/projects.html">
+          <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+            <state relative-caret-position="-200">
+              <caret line="135" column="68" selection-start-line="135" selection-start-column="68" selection-end-line="135" selection-end-column="68" />
+=======
+            <state relative-caret-position="3852">
+              <caret line="107" column="17" selection-start-line="107" selection-start-column="17" selection-end-line="107" selection-end-column="17" />
+>>>>>>> ce64027341377028e6a1fd4880929f920c025c17
+>>>>>>> 01b668645d61f91a64dd5b835420971229954c0f
               <folding>
                 <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -101,8 +166,30 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/experience.html">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="341">
               <caret line="117" column="80" lean-forward="true" selection-start-line="115" selection-start-column="23" selection-end-line="117" selection-end-column="80" />
+=======
+<<<<<<< HEAD
+            <state relative-caret-position="-2323">
+              <caret line="103" column="26" lean-forward="true" selection-start-line="103" selection-start-column="26" selection-end-line="103" selection-end-column="26" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+              </folding>
+=======
+            <state relative-caret-position="4176">
+              <caret line="116" column="50" selection-start-line="116" selection-start-column="50" selection-end-line="116" selection-end-column="50" />
+>>>>>>> ce64027341377028e6a1fd4880929f920c025c17
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/publications.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="720">
+              <caret line="104" column="31" lean-forward="true" selection-start-line="104" selection-start-column="31" selection-end-line="104" selection-end-column="31" />
+>>>>>>> 01b668645d61f91a64dd5b835420971229954c0f
             </state>
           </provider>
         </entry>
@@ -119,8 +206,18 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="108">
               <caret line="98" column="41" lean-forward="true" selection-start-line="98" selection-start-column="41" selection-end-line="98" selection-end-column="41" />
+=======
+<<<<<<< HEAD
+            <state relative-caret-position="252">
+              <caret line="177" column="19" lean-forward="true" selection-start-line="177" selection-start-column="19" selection-end-line="177" selection-end-column="19" />
+=======
+            <state relative-caret-position="219">
+              <caret line="179" column="66" selection-start-line="179" selection-start-column="66" selection-end-line="179" selection-end-column="66" />
+>>>>>>> ce64027341377028e6a1fd4880929f920c025c17
+>>>>>>> 01b668645d61f91a64dd5b835420971229954c0f
             </state>
           </provider>
         </entry>
@@ -145,9 +242,15 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/publications.html" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/experience.html" />
         <option value="$PROJECT_DIR$/projects.html" />
+=======
+        <option value="$PROJECT_DIR$/projects.html" />
+        <option value="$PROJECT_DIR$/experience.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+>>>>>>> 01b668645d61f91a64dd5b835420971229954c0f
       </list>
     </option>
   </component>
@@ -158,17 +261,34 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="7">
+<<<<<<< HEAD
     <option name="x" value="390" />
     <option name="y" value="51" />
     <option name="width" value="1199" />
     <option name="height" value="1030" />
+=======
+<<<<<<< HEAD
+    <option name="x" value="392" />
+    <option name="y" value="53" />
+    <option name="width" value="1197" />
+    <option name="height" value="1030" />
+=======
+    <option name="x" value="-123" />
+    <option name="y" value="96" />
+    <option name="width" value="1620" />
+    <option name="height" value="920" />
+>>>>>>> ce64027341377028e6a1fd4880929f920c025c17
+>>>>>>> 01b668645d61f91a64dd5b835420971229954c0f
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+<<<<<<< HEAD
       <pane id="Scope" />
+=======
+>>>>>>> 01b668645d61f91a64dd5b835420971229954c0f
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -180,12 +300,14 @@
             <path>
               <item name="lywlinux.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="lywlinux.github.io" type="462c0819:PsiDirectoryNode" />
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 01b668645d61f91a64dd5b835420971229954c0f
               <item name="doc" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lywlinux.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lywlinux.github.io" type="462c0819:PsiDirectoryNode" />
+=======
               <item name="img" type="462c0819:PsiDirectoryNode" />
+>>>>>>> ce64027341377028e6a1fd4880929f920c025c17
             </path>
             <path>
               <item name="lywlinux.github.io" type="b2602c69:ProjectViewProjectNode" />
@@ -197,12 +319,30 @@
               <item name="lywlinux.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="lywlinux.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="img" type="462c0819:PsiDirectoryNode" />
+<<<<<<< HEAD
+              <item name="experience" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lywlinux.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lywlinux.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
               <item name="icons" type="462c0819:PsiDirectoryNode" />
+=======
+<<<<<<< HEAD
+              <item name="experience" type="462c0819:PsiDirectoryNode" />
+=======
+              <item name="icons" type="462c0819:PsiDirectoryNode" />
+>>>>>>> ce64027341377028e6a1fd4880929f920c025c17
+>>>>>>> 01b668645d61f91a64dd5b835420971229954c0f
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+<<<<<<< HEAD
+=======
+      <pane id="Scope" />
+>>>>>>> 01b668645d61f91a64dd5b835420971229954c0f
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -218,9 +358,18 @@
       <recent name="C:\Users\Jack\Desktop\lywlinux.github.io\img\projects" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+<<<<<<< HEAD
       <recent name="C:\Users\Jack\Desktop\lywlinux.github.io\img\experience" />
       <recent name="C:\Users\Jack\Desktop\lywlinux.github.io\img\projects" />
       <recent name="C:\Users\Jack\Desktop\lywlinux.github.io\doc" />
+=======
+<<<<<<< HEAD
+      <recent name="C:\Users\Jack\Desktop\lywlinux.github.io\img\experience" />
+      <recent name="C:\Users\Jack\Desktop\lywlinux.github.io\img\projects" />
+      <recent name="C:\Users\Jack\Desktop\lywlinux.github.io\doc" />
+=======
+>>>>>>> ce64027341377028e6a1fd4880929f920c025c17
+>>>>>>> 01b668645d61f91a64dd5b835420971229954c0f
       <recent name="C:\Users\Jack\Desktop\lywlinux.github.io\img" />
       <recent name="C:\Users\Jack\Desktop\juyongjiang.github.io-master\juyongjiang.github.io-master\img\projects" />
     </key>
@@ -258,20 +407,44 @@
       <option name="presentableId" value="Default" />
       <updated>1632969235220</updated>
       <workItem from="1632969236530" duration="16043000" />
+<<<<<<< HEAD
       <workItem from="1641693221567" duration="8476000" />
       <workItem from="1641706817754" duration="11000" />
       <workItem from="1642002871817" duration="308000" />
+=======
+<<<<<<< HEAD
+      <workItem from="1641693221567" duration="7081000" />
+=======
+      <workItem from="1641693221567" duration="886000" />
+>>>>>>> ce64027341377028e6a1fd4880929f920c025c17
+>>>>>>> 01b668645d61f91a64dd5b835420971229954c0f
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="24838000" />
+=======
+<<<<<<< HEAD
+    <option name="totallyTimeSpent" value="23124000" />
+=======
+    <option name="totallyTimeSpent" value="16929000" />
+>>>>>>> ce64027341377028e6a1fd4880929f920c025c17
+>>>>>>> 01b668645d61f91a64dd5b835420971229954c0f
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
     <editor active="true" />
     <layout>
+<<<<<<< HEAD
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1494638" />
+=======
+<<<<<<< HEAD
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14544237" />
+=======
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18498659" />
+>>>>>>> ce64027341377028e6a1fd4880929f920c025c17
+>>>>>>> 01b668645d61f91a64dd5b835420971229954c0f
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -312,15 +485,53 @@
     <entry file="file://$PROJECT_DIR$/img/icons/medium.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/img/experience/hohai.jpg">
+      <provider selected="true" editor-type-id="images" />
+=======
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/img/experience/hohai.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/img/profile.png">
+      <provider selected="true" editor-type-id="images" />
+=======
+    <entry file="file://$PROJECT_DIR$/publications.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="104" column="46" selection-start-line="104" selection-start-column="46" selection-end-line="104" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3852">
+          <caret line="107" column="17" selection-start-line="107" selection-start-column="17" selection-end-line="107" selection-end-column="17" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+>>>>>>> ce64027341377028e6a1fd4880929f920c025c17
+>>>>>>> 01b668645d61f91a64dd5b835420971229954c0f
+    </entry>
+    <entry file="file://$PROJECT_DIR$/experience.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4176">
+          <caret line="116" column="50" selection-start-line="116" selection-start-column="50" selection-end-line="116" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/img/projects/project_3.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/img/projects/project_2.jpg">
+=======
+    <entry file="file://$PROJECT_DIR$/img/profile.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/img/experience/casia.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -332,29 +543,77 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/img/profile.png">
+=======
+    <entry file="file://$PROJECT_DIR$/img/experience/hohai.jpg">
+>>>>>>> ce64027341377028e6a1fd4880929f920c025c17
       <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/experience/casia.png">
+>>>>>>> 01b668645d61f91a64dd5b835420971229954c0f
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/publications.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="104" column="31" lean-forward="true" selection-start-line="104" selection-start-column="31" selection-end-line="104" selection-end-column="31" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/experience.html">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="341">
           <caret line="117" column="80" lean-forward="true" selection-start-line="115" selection-start-column="23" selection-end-line="117" selection-end-column="80" />
+=======
+        <state relative-caret-position="-2323">
+          <caret line="103" column="26" lean-forward="true" selection-start-line="103" selection-start-column="26" selection-end-line="103" selection-end-column="26" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+>>>>>>> 01b668645d61f91a64dd5b835420971229954c0f
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="108">
           <caret line="98" column="41" lean-forward="true" selection-start-line="98" selection-start-column="41" selection-end-line="98" selection-end-column="41" />
+=======
+        <state relative-caret-position="-200">
+          <caret line="135" column="68" selection-start-line="135" selection-start-column="68" selection-end-line="135" selection-end-column="68" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+>>>>>>> 01b668645d61f91a64dd5b835420971229954c0f
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/projects.html">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="197">
           <caret line="100" column="38" lean-forward="true" selection-start-line="100" selection-start-column="38" selection-end-line="100" selection-end-column="38" />
           <folding>
             <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+=======
+        <state relative-caret-position="252">
+          <caret line="177" column="19" lean-forward="true" selection-start-line="177" selection-start-column="19" selection-end-line="177" selection-end-column="19" />
+=======
+    <entry file="file://$PROJECT_DIR$/img/projects/project_2.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/projects/project_1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="179" column="66" selection-start-line="179" selection-start-column="66" selection-end-line="179" selection-end-column="66" />
+>>>>>>> ce64027341377028e6a1fd4880929f920c025c17
+>>>>>>> 01b668645d61f91a64dd5b835420971229954c0f
         </state>
       </provider>
     </entry>
