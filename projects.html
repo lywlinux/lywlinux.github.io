@@ -100,10 +100,10 @@ Navigation Bar
             </button>
             <ul class="visible-links">
               <li class="masthead__menu-item masthead__menu-item--lg">
-                <a href="../index.html">Donghai Wu</a></li>
+                <a href="../index.html">Yaowei Long</a></li>
               <li class="masthead__menu-item">
                 <a href="../projects.html">Projects</a></li>
-              <li class="masthead__menu-item">
+              <!--<li class="masthead__menu-item">-->
                 <!--<li class="masthead__menu-item">-->
                 <!--<a href="./experience.html">Experience</a></li>-->
               <li class="masthead__menu-item">
@@ -126,8 +126,8 @@ Personal Information test
               <img src="./img/profile.png" class="author__avatar" alt="Your Sidebar Name"></div>
             <div class="author__content">
               <h3 class="author__name">Jack</h3>
-              <p class="author__bio">“Wisdom is not a product of schooling but of the lifelong attempt to acquire it.”<br/>
-                &emsp;&emsp;&emsp;&emsp;— Albert Einstein</p>
+              <p class="author__bio">“运维就像一杯水，平淡但不可或缺。”
+                &emsp;----- 蝈蝈</p>
             </div>
             <div class="author__urls-wrapper">
               <button class="btn btn--inverse">Follow</button>
@@ -137,19 +137,19 @@ Personal Information test
                     <i class="fa fa-map-marker" aria-hidden="true"></i><span>&ensp;Location</span></a>
                 </li>
                 <li>
-                  <a href="https://blog.csdn.net/weixin_43723542?spm=1000.2115.3001.5343">
+                  <a href="">
                     <i class="fa fa-file-code-o" aria-hidden="true"></i><span>&ensp;CSDN</span></a>
                 </li>
                 <li>
                   <a>
-                    <i class="fa fa-wechat" aria-hidden="true"></i><span>&ensp;18212422521</span></a>
+                    <i class="fa fa-wechat" aria-hidden="true"></i><span>&ensp;18386614415</span></a>
                 </li>
                 <li>
                   <a href="">
-                    <i class="fa fa-phone" aria-hidden="true"></i><span>&ensp;Call +86 18212422521</span></a></li>
+                    <i class="fa fa-phone" aria-hidden="true"></i><span>&ensp;Call +86 18386614415</span></a></li>
                 <li>
                   <a href="https://myaccount.google.com/?hl=zh_CN">
-                    <i class="fa fa-envelope" aria-hidden="true"></i><span>&ensp;gzdonghaiwu@gmail.com</span></a>
+                    <i class="fa fa-envelope" aria-hidden="true"></i><span>&ensp;longyaoweilinux@163.com</span></a>
                 </li>
               </ul>
             </div>
@@ -166,17 +166,28 @@ Personal Information test
         <div class="list__item">
           <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
             <h2 class="archive__item-title" itemprop="headline">
-              ✷车牌识别
+              ✷房产管家一期
             </h2>
             <p class="page__meta">
-              <i class="fa fa-clock-o" aria-hidden="true"></i>2018.05 - 2018.06
+              <i class="fa fa-clock-o" aria-hidden="true"></i>2021.08 - 2021.12
             </p>
             <p class="archive__item-excerpt" itemprop="description"></p>
             <p>
               <img src="./img/projects/project_3.jpg" width="400">
             </p>
             <p>
-                <li>Python + OpenCV + CNN 主要内容图像预处理 ，车牌定位、 车牌过滤、 字符分割 、字符识别。</li>
+                <li>项目描述：<br />
+            房产管家是公司自研的手机端 APP 移动办公平台，用户只需要安装手机客户端 APP，即可实时 查看 房地产各个项目的开发进度、销售进度、房源信息等，提供计划节点严重滞后时的手机报警等功能； 相应的，公 司 web 页面点击量大量增加，需要搭建新的 WEB 服务均衡负载性集群才能应对用户大量访问需 求，根据甲方 要求，基于 Docker、k8s 技术以半容器化的方案部署 WEB 均衡负载性集群，前端 WEB 服务器 集群基于 100 台物理机(node 节点)启动 500 个 Apache 实例，后端 20 台 Mysql 集群采用全物理机的方案，负载均衡性集群 采用 4 层+7 层+4 层的调度方案。</li>
+
+            <li>主要职责：<br />
+              1. 镜像准备，编写 Dockerfile 文件，将公司项目及 lamp 环境打包封装，制作基础镜像； <br />
+              2. 配合开发完成应用上云之前的测试工作；<br />
+              3. 管理公司 Harbor 私有镜像仓库，严格做好每个镜像版本的备份工作； <br />
+              4. k8s 平台的后期维护，通过 Promethues 监控 k8s 集群的资源使用情况； <br />
+              5. 处理客户和业务的的需求，完成项目实例的资源扩缩容； <br />
+              6. 配合开发人员完成应用的滚动升级和回滚等。<br />
+            </li>
+
            </p>
             <p></p>
           </article>
@@ -185,61 +196,26 @@ Personal Information test
         <div class="list__item">
           <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
             <h2 class="archive__item-title" itemprop="headline">
-              ✷小区物业管理系统
+              ✷果蔬商超二期
             </h2>
             <p class="page__meta">
-              <i class="fa fa-clock-o" aria-hidden="true"></i>2019.11 - 2019.12
+              <i class="fa fa-clock-o" aria-hidden="true"></i>2021.3 - 2021.07
             </p>
             <p class="archive__item-excerpt" itemprop="description"></p>
             <p>
               <img src="./img/projects/project_2.jpg" width="400">
             </p>
             <p>
-                <li>使用 Idea 开发小区物业管理系统，负责构建数据库连接池与线程池，登录注册模块， 数据库连接，前 后端连接，Web 核心业务开发，服务器配置，SqlServer 服务器搭建。
-            数据的清洗与存储数据到 SqlServer 数据库，通过日志分析定位慢查询，通过添加联合索引减少了 50% 数据库查询时间。</li>
-           </p>
-            <p></p>
-          </article>
-        </div>
-
-        <div class="list__item">
-          <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
-            <h2 class="archive__item-title" itemprop="headline">
-              ✷手机视频直播平台
-            </h2>
-            <p class="page__meta">
-              <i class="fa fa-clock-o" aria-hidden="true"></i>2020.05 - 2020.06
-            </p>
-            <p class="archive__item-excerpt" itemprop="description"></p>
-            <p>
-              <img src="./img/projects/project_2.jpg" width="400">
-            </p>
-            <p>
-            <li>使用 Android Studio 开发手机视频直播平台，基于 Flask 服务器 + Nginx 反向代理 + SqlServer
-            数 据库 + Android 客户端的 Web 开发, 主要工作内容腾讯云 SDK 拉流与推流，安卓页面登录注册处理，
-            服务器配置与部署，SqlServer 数据库连接，安卓程序与后端连接，Web 核心业务开发。</li>
-            </p>
-            <p></p>
-          </article>
-        </div>
-
-        <div class="list__item">
-          <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
-            <h2 class="archive__item-title" itemprop="headline">
-              ✷三维网格模型的曲率计算以及分析探究
-            </h2>
-            <p class="page__meta">
-              <i class="fa fa-clock-o" aria-hidden="true"></i>2021.03 - 2021.05
-            </p>
-            <p class="archive__item-excerpt" itemprop="description"></p>
-            <p>
-              <img src="img/projects/project_1.jpg" width="400">
-            </p>
-            <p>
-                <li>计算三维模型的各种曲率值，高斯曲率，平均曲率，主曲率。使三维模型的曲率值与三维模型表面颜色 进行挂钩，对三维模型进行预处理（简化与细化），
-                利用计算出的曲率值对三维模型进行分割。 </li>
-                <!--<li>Using CTPN & CRNN model to locate and recognize bank card number, respectively. </li>-->
-                <!--<li>Developing a web page and an android app to display and use. </li>-->
+                <li>项目描述：<br/>
+            随着甲方房地产项目的扩建，业务量不断扩大，预计现有的 Mysql 服务集群无法满足大量数据的同时 写入和检索需求，公司决定扩展现有的 Mysql 集群，并增设 Redis 集群作为 Mysql 数据缓存。
+          </li>
+            <li>主要职责： <br/>
+              1. Mysql 主从搭建，将新增服务器节点配置为原有 Mysql 主服务器的从服务器，实现主从复制； <br/>
+              2. Amoeba 中间件配置，将新增的 Mysql 服务器加入原有的集群，并实现数据读写分离；  <br/>
+              3. 参与 Redis 集群搭建，完成 Redis 主从配置；  <br/>
+              4. 配置 Zabbix 自动发现功能，将新增物理节点自动加入监控；  <br/>
+              5. 使用 Rsync+inotify 实现数据实时同步，完成数据库的备份工作；  <br/>
+              6. 后期负责监控、维护。</li>
            </p>
             <p></p>
           </article>
@@ -264,13 +240,13 @@ Page footer
                 <i class="fab fa-github" aria-hidden="true"></i> GitHub</a>
             </li>
             <li>
-              <a href="mailto:gzdonghaiwu@gmail.com">
+              <a href="mailto:longyaoweilinux@163.com">
                 <i class="fa fa-fw fa-rss-square" aria-hidden="true"></i>Feed</a>
             </li>
           </ul>
         </div>
         <div class="page__footer-copyright">
-          © 2016-2021 Donghai Wu. All rights reserved.
+          © 2016-2022 Yaowei Long. All rights reserved.
         </div>
       </footer>
     </div>
